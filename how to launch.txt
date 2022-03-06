@@ -1,0 +1,3 @@
+go the GUI folder and open the main.java file and run it
+
+enjoy
